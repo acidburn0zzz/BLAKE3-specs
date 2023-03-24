@@ -16,6 +16,6 @@ blake2b_simd = { version = "0.5.10", features = ["uninline_portable"] }
 blake2s_simd = "0.5.10"
 criterion = "0.3.0"
 kangarootwelve = { path = "./kangarootwelve" }
-openssl = { version = "0.10.26", features = ["vendored"] }
+openssl = { version = "0.10.48", features = ["vendored"] }
 page_size = "0.4.1"
 rand = "0.7.2"
